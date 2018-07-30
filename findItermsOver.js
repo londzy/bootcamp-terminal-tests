@@ -1,4 +1,4 @@
-function findItemsOver(item,amount){
+module.exports=function (item,amount){
 
   var num = [];
   for(var i = 0; i < item.length; i++){

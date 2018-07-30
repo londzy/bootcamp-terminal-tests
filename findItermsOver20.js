@@ -1,4 +1,4 @@
-function findItemsOver20(item){
+module.exports = function(item){
   // console.log(item);
   var num = [];
   for(var i = 0; i < item.length; i++){
