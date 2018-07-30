@@ -1,5 +1,5 @@
 let assert = require("assert");
-let greet = require("../greet");
+let fromWhere = require("../fromWhere");
 
 describe('fromWhere', function(){
     //var count = 'morning, afternoon, nightshift';

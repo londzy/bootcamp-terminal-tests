@@ -1,7 +1,7 @@
 
 
 let assert = require("assert");
-let isFromBellville = require("../isFromBellville");
+let isFromBellvile = require("../isFromBellvile");
 
 describe('isFromBellvile', function(){
 

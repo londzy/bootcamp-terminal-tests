@@ -15,7 +15,7 @@ module.exports = function(regNum){
          }
 };
 
-assert.equal(fromWhere("CY 324"),"Bellville");
+/*assert.equal(fromWhere("CY 324"),"Bellville");
 assert.equal(fromWhere("CJ 123"),"Paarl");
 assert.equal(fromWhere("CA 987"),"Cape Town");
-assert.equal(fromWhere("NUZ 476"),"Some other place!");
+assert.equal(fromWhere("NUZ 476"),"Some other place!");*/

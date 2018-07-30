@@ -8,6 +8,8 @@
 
 });*/
 
+let assert = require("assert");
+let transportFee = require("../transportFee");
 
 describe('transportFee', function(){
     //var count = 'morning, afternoon, nightshift';
